@@ -6,6 +6,10 @@ tistoryVisibility: "3"
 tistoryCategory: "1399377"
 tistoryPostId: "4"
 tistoryPostUrl: https://toris-dev.tistory.com/4
+tags:
+  - Blog
+  - Java
+  - 알고리즘
 ---
 >[!faq] java Collection Framework 란?
 >Java 에서 데이터를 저장하는 자료구조들을 한 곳에 모아 편리하게 사용하기 위해 제공하는 List, Set,  Map 으로 구분할 수 있다.
