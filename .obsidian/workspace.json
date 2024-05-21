@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-25.md",
+                "file": "01-Project/프로젝트 회의록.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8cb944530a84800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Project/IT 프로젝트 직무 1기/2일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-25.md",
+                "file": "01-Project/프로젝트 회의록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-25.md",
+                "file": "01-Project/프로젝트 회의록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-25.md"
+                "file": "01-Project/프로젝트 회의록.md"
               }
             }
           },
@@ -135,6 +147,14 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c05bda32d3ac49f7",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
               "state": {}
             }
           }
@@ -154,12 +174,27 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-projects:Open projects": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "69310b98246faaa0",
   "lastOpenFiles": [
+    "01-Project/IT 프로젝트 직무 1기/5일차.md",
+    "01-Project/프로젝트 회의록.md",
+    "01-Project/코딩테스트/js 유용 함수.md",
+    "01-Project/IT 프로젝트 직무 1기/3일차.md",
+    "task/2024-05-01.md",
+    "Untitled.md",
+    "01-Project/IT 프로젝트 직무 1기/2일차.md",
+    "01-Project/취업 준비/코딩테스트/js 유용 함수.md",
+    "01-Project/취업 준비/면접질문 정리/공통 질문 정리.md",
+    "01-Project/취업 준비/면접질문 정리/면접 최종 질문.md",
     "01-Project/취업 준비/면접질문 정리/공통 질문.md",
+    "2024-04-25.md",
+    "01-Project/IT 프로젝트 직무 1기",
     "task/2024-04-22.md",
     "task/2024-04-12.md",
     "task/2024-04-11.md",
@@ -174,24 +209,13 @@
     "task/2024-03-19.md",
     "task/2024-03-18.md",
     "task/2023-12-30.md",
-    "task/2023-12-26.md",
     "images/스크린샷 2023-12-23 025817 1.png",
-    "Excalidraw/Drawing 2024-01-02 13.46.59.excalidraw.md",
     "04-Archive/image/devops.PNG.png",
-    "03-Resource/react/react Modal 만들기.md",
-    "03-Resource/css/grid.md",
     "03-Resource/css",
-    "03-Resource/Blog/무제 파일.md",
     "03-Resource/Blog",
-    "02-Area/투자/재무설문지.md",
-    "01-Project/취업 준비/코딩테스트/js 유용 함수.md",
-    "01-Project/취업 준비/면접질문 정리/프론트엔드 정리.md",
-    "01-Project/취업 준비/면접질문 정리/공통 질문 정리.md",
-    "01-Project/취업 준비/면접질문 정리/면접 최종 질문.md",
     "01-Project/취업 준비/코딩테스트",
     "01-Project/취업 준비/면접질문 정리",
     "01-Project/취업 준비",
-    "01-Project/개인 프로젝트/구상.md",
     "01-Project/개인 프로젝트",
     "01-Project/TorisBlog",
     "01-Project/코딩테스트",
@@ -199,7 +223,6 @@
     "스크린샷 2023-12-23 025817.png",
     "images/스크린샷 2023-12-23 030054.png",
     "images/스크린샷 2023-12-23 025817.png",
-    "images",
     "무제 파일.canvas"
   ]
 }
