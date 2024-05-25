@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Project/프로젝트 회의록.md",
+                "file": "template/2024-05-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "28bd674ac0dbb3bc",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Project/프로젝트 회의록.md",
+                "file": "template/2024-05-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Project/프로젝트 회의록.md",
+                "file": "template/2024-05-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Project/프로젝트 회의록.md"
+                "file": "template/2024-05-25.md"
               }
             }
           },
@@ -163,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,18 +180,20 @@
   },
   "active": "69310b98246faaa0",
   "lastOpenFiles": [
-    "01-Project/IT 프로젝트 직무 1기/5일차.md",
+    "01-Project/IT 프로젝트 직무 1기/2일차.md",
+    "template/2024-05-25.md",
+    "README.md",
+    "template/2024-04-25.md",
     "01-Project/프로젝트 회의록.md",
+    "01-Project/IT 프로젝트 직무 1기/5일차.md",
     "01-Project/코딩테스트/js 유용 함수.md",
     "01-Project/IT 프로젝트 직무 1기/3일차.md",
     "task/2024-05-01.md",
     "Untitled.md",
-    "01-Project/IT 프로젝트 직무 1기/2일차.md",
     "01-Project/취업 준비/코딩테스트/js 유용 함수.md",
     "01-Project/취업 준비/면접질문 정리/공통 질문 정리.md",
     "01-Project/취업 준비/면접질문 정리/면접 최종 질문.md",
     "01-Project/취업 준비/면접질문 정리/공통 질문.md",
-    "2024-04-25.md",
     "01-Project/IT 프로젝트 직무 1기",
     "task/2024-04-22.md",
     "task/2024-04-12.md",
@@ -207,8 +207,6 @@
     "task/2024-03-25.md",
     "task/2024-03-21.md",
     "task/2024-03-19.md",
-    "task/2024-03-18.md",
-    "task/2023-12-30.md",
     "images/스크린샷 2023-12-23 025817 1.png",
     "04-Archive/image/devops.PNG.png",
     "03-Resource/css",
