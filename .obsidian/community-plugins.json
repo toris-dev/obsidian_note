@@ -4,5 +4,11 @@
   "obsidian-style-settings",
   "obsidian-icon-folder",
   "obsidian-minimal-settings",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-projects",
+  "templater-obsidian",
+  "obsidian-tasks-plugin",
+  "periodic-notes",
+  "calendar",
+  "execute-code"
 ]

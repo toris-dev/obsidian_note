@@ -4,7 +4,7 @@
   "wordsPerDot": 250,
   "showWeeklyNote": false,
   "weeklyNoteFormat": "",
-  "weeklyNoteTemplate": "",
-  "weeklyNoteFolder": "",
+  "weeklyNoteTemplate": "/template/Todo-List",
+  "weeklyNoteFolder": "/task",
   "localeOverride": "system-default"
 }

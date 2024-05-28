@@ -1,0 +1,35 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": true,
+  "daily": {
+    "format": "",
+    "template": "template/📖 Todo-List.md",
+    "folder": "task",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "folder": "/task",
+    "template": "template/📖 Todo-List.md",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "template/📖 Todo-List.md",
+    "folder": "/task",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "template/📖 Todo-List.md",
+    "folder": "/task",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": "",
+    "enabled": false
+  }
+}

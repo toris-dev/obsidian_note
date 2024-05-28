@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "7a90951abed85fd2",
+    "id": "a726cb2a60cdc320",
     "type": "split",
     "children": [
       {
-        "id": "4bf16e3861d29456",
+        "id": "34cebc3e8ec1a98b",
         "type": "tabs",
         "children": [
           {
-            "id": "69310b98246faaa0",
+            "id": "71e434cecff3cfa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-25.md",
+                "file": "01-Project/취업 준비/면접질문 정리/면접 최종 질문.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6bdaad22b58ffefe",
+    "id": "370aea79eb7614a4",
     "type": "split",
     "children": [
       {
-        "id": "27457940abfafc1d",
+        "id": "7bbc6a1769a01f20",
         "type": "tabs",
         "children": [
           {
-            "id": "af616ccfb2e3084c",
+            "id": "3affbb54d5e528d1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "206f1d18c9284766",
+            "id": "04a16faa86246000",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#PARA",
+                "query": "자기소개",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "ea2080e3ebb05b53",
+            "id": "ee64f752b90232bc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,24 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "28bd674ac0dbb3bc",
+    "id": "49124f283f7f8915",
     "type": "split",
     "children": [
       {
-        "id": "a6cbbff2a2d0fd59",
+        "id": "b3e6e10dc0b62f71",
         "type": "tabs",
         "children": [
           {
-            "id": "e531bcbcab4380c5",
+            "id": "5ee2f5250d8b4711",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-25.md",
+                "file": "01-Project/취업 준비/면접질문 정리/면접 최종 질문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +97,29 @@
             }
           },
           {
-            "id": "e91d51f87d2201a5",
+            "id": "a3dd9fe06ab20493",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01-Project/취업 준비/면접질문 정리/면접 최종 질문.md"
+              }
+            }
+          },
+          {
+            "id": "7c2dcf67ff2d0a77",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-25.md",
+                "file": "01-Project/취업 준비/면접질문 정리/면접 최종 질문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "45cd43bbf6876137",
+            "id": "d08fa2aad7a9ad93",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,17 +130,7 @@
             }
           },
           {
-            "id": "c18798c92dc3eed5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2024-04-25.md"
-              }
-            }
-          },
-          {
-            "id": "c341cb77c171ca98",
+            "id": "ddcdadd0f6808416",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -143,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,54 +152,34 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "69310b98246faaa0",
+  "active": "71e434cecff3cfa4",
   "lastOpenFiles": [
-    "01-Project/취업 준비/면접질문 정리/공통 질문.md",
-    "task/2024-04-22.md",
-    "task/2024-04-12.md",
-    "task/2024-04-11.md",
-    "task/2024-04-10.md",
-    "task/2024-04-08.md",
-    "task/2024-04-07.md",
-    "task/2024-03-31.md",
-    "task/2024-03-27.md",
-    "task/2024-03-26.md",
-    "task/2024-03-25.md",
-    "task/2024-03-21.md",
-    "task/2024-03-19.md",
-    "task/2024-03-18.md",
-    "task/2023-12-30.md",
-    "task/2023-12-26.md",
-    "images/스크린샷 2023-12-23 025817 1.png",
-    "Excalidraw/Drawing 2024-01-02 13.46.59.excalidraw.md",
-    "04-Archive/image/devops.PNG.png",
-    "03-Resource/react/react Modal 만들기.md",
-    "03-Resource/css/grid.md",
-    "03-Resource/css",
-    "03-Resource/Blog/무제 파일.md",
-    "03-Resource/Blog",
-    "02-Area/투자/재무설문지.md",
-    "01-Project/취업 준비/코딩테스트/js 유용 함수.md",
-    "01-Project/취업 준비/면접질문 정리/프론트엔드 정리.md",
-    "01-Project/취업 준비/면접질문 정리/공통 질문 정리.md",
+    "01-Project/취업 준비/면접질문 정리/면접내용.md",
     "01-Project/취업 준비/면접질문 정리/면접 최종 질문.md",
-    "01-Project/취업 준비/코딩테스트",
-    "01-Project/취업 준비/면접질문 정리",
-    "01-Project/취업 준비",
-    "01-Project/개인 프로젝트/구상.md",
-    "01-Project/개인 프로젝트",
-    "01-Project/TorisBlog",
-    "01-Project/코딩테스트",
-    "01-Project/프론트엔드 면접질문",
-    "스크린샷 2023-12-23 025817.png",
-    "images/스크린샷 2023-12-23 030054.png",
-    "images/스크린샷 2023-12-23 025817.png",
-    "images",
-    "무제 파일.canvas"
+    "01-Project/취업 준비/면접질문 정리/공통 질문 정리.md",
+    "01-Project/TorisBlog/프로젝트 개인 블로그 챗봇 Open API.md",
+    "01-Project/취업 준비/면접질문 정리/공통 질문.md",
+    "01-Project/취업 준비/면접질문 정리/프론트엔드 정리.md",
+    "01-Project/취업 준비/자소서.md",
+    "01-Project/취업 준비/코테 내용.md",
+    "task/2024-05-22.md",
+    "02-Area/가치관 일기.md",
+    "02-Area/투자/나의 투자 원칙.md",
+    "01-Project/취업 준비/코딩테스트/BFS, DFS, 백트래킹 정리.md",
+    "01-Project/취업 준비/코딩테스트/js 유용 함수.md",
+    "task/2024-05-13.md",
+    "template/🔮 Blog.md",
+    "template/📖 Todo-List.md",
+    "task/2024-05-07.md",
+    "task/2024-05-05.md",
+    "task/2024-04-25.md",
+    "2024-05-05.md",
+    "task/2024-04-07.md"
   ]
 }
