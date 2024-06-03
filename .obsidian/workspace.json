@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Project/취업 준비/면접질문 정리/면접 최종 질문.md",
+                "file": "task/2024-06-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,29 +80,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ee2f5250d8b4711",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "01-Project/취업 준비/면접질문 정리/면접 최종 질문.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "a3dd9fe06ab20493",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Project/취업 준비/면접질문 정리/면접 최종 질문.md"
+                "file": "task/2024-06-03.md"
               }
             }
           },
@@ -112,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Project/취업 준비/면접질문 정리/면접 최종 질문.md",
+                "file": "task/2024-06-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,6 +109,23 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5ee2f5250d8b4711",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "task/2024-06-03.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -152,34 +152,41 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false,
       "obsidian-projects:Open projects": false,
-      "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "71e434cecff3cfa4",
   "lastOpenFiles": [
+    "01-Project/취업 준비/자소서.md",
+    "task/2024-06-03.md",
+    "01-Project/취업 준비/코딩테스트/js 유용 함수.md",
+    "01-Project/취업 준비/코딩테스트/BFS, DFS, 백트래킹 정리.md",
+    "01-Project/취업 준비/면접질문 정리/프론트엔드 정리.md",
     "01-Project/취업 준비/면접질문 정리/면접내용.md",
     "01-Project/취업 준비/면접질문 정리/면접 최종 질문.md",
+    "conflict-files-obsidian-git.md",
+    "template/2024-05-25.md",
+    "template/2024-04-25.md",
+    "task/2024-05-01.md",
+    "01-Project/프로젝트 회의록.md",
+    "01-Project/IT 프로젝트 직무 1기/5일차.md",
+    "01-Project/IT 프로젝트 직무 1기/3일차.md",
+    "01-Project/IT 프로젝트 직무 1기/2일차.md",
+    "01-Project/IT 프로젝트 직무 1기",
     "01-Project/취업 준비/면접질문 정리/공통 질문 정리.md",
     "01-Project/TorisBlog/프로젝트 개인 블로그 챗봇 Open API.md",
     "01-Project/취업 준비/면접질문 정리/공통 질문.md",
-    "01-Project/취업 준비/면접질문 정리/프론트엔드 정리.md",
-    "01-Project/취업 준비/자소서.md",
     "01-Project/취업 준비/코테 내용.md",
     "task/2024-05-22.md",
     "02-Area/가치관 일기.md",
     "02-Area/투자/나의 투자 원칙.md",
-    "01-Project/취업 준비/코딩테스트/BFS, DFS, 백트래킹 정리.md",
-    "01-Project/취업 준비/코딩테스트/js 유용 함수.md",
     "task/2024-05-13.md",
     "template/🔮 Blog.md",
     "template/📖 Todo-List.md",
-    "task/2024-05-07.md",
-    "task/2024-05-05.md",
-    "task/2024-04-25.md",
-    "2024-05-05.md",
-    "task/2024-04-07.md"
+    "task/2024-05-07.md"
   ]
 }

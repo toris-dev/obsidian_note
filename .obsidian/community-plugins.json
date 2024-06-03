@@ -1,14 +1,17 @@
 [
-  "obsidian-excalidraw-plugin",
-  "obsidian-kanban",
-  "obsidian-style-settings",
-  "obsidian-icon-folder",
-  "obsidian-minimal-settings",
-  "obsidian-git",
-  "obsidian-projects",
-  "templater-obsidian",
-  "obsidian-tasks-plugin",
-  "periodic-notes",
   "calendar",
-  "execute-code"
+  "dataview",
+  "buttons",
+  "table-editor-obsidian",
+  "obsidian-excalidraw-plugin",
+  "execute-code",
+  "obsidian-git",
+  "obsidian-icon-folder",
+  "obsidian-kanban",
+  "obsidian-minimal-settings",
+  "periodic-notes",
+  "obsidian-projects",
+  "obsidian-style-settings",
+  "obsidian-tasks-plugin",
+  "templater-obsidian"
 ]
