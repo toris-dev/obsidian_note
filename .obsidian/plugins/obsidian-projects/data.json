@@ -1,6 +1,41 @@
 {
   "version": 2,
-  "projects": [],
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "14c2c560-e448-4743-af28-c9fb11c18cc1",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "e30c58a2-e873-4765-b1a7-e1ce2842e78f",
+      "name": "Untitled project"
+    }
+  ],
   "archives": [],
   "preferences": {
     "projectSizeLimit": 1000,

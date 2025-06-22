@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task/2024-06-03.md",
+                "file": "03-Resource/블록체인/💎 블록체인 기초 개념.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "💎 블록체인 기초 개념"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
             }
           }
         ]
@@ -85,8 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "task/2024-06-03.md"
-              }
+                "file": "01-Project/개인 프로젝트/구상.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "구상 의 개요"
             }
           },
           {
@@ -95,10 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "task/2024-06-03.md",
+                "file": "01-Project/개인 프로젝트/구상.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "구상 의 나가는 링크"
             }
           },
           {
@@ -108,8 +124,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
             }
           },
           {
@@ -118,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task/2024-06-03.md",
+                "file": "01-Project/개인 프로젝트/구상.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +146,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "구상 의 백링크"
             }
           },
           {
@@ -134,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -146,47 +170,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open today": false,
       "obsidian-projects:Open projects": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "71e434cecff3cfa4",
   "lastOpenFiles": [
-    "01-Project/취업 준비/자소서.md",
-    "task/2024-06-03.md",
-    "01-Project/취업 준비/코딩테스트/js 유용 함수.md",
-    "01-Project/취업 준비/코딩테스트/BFS, DFS, 백트래킹 정리.md",
-    "01-Project/취업 준비/면접질문 정리/프론트엔드 정리.md",
-    "01-Project/취업 준비/면접질문 정리/면접내용.md",
-    "01-Project/취업 준비/면접질문 정리/면접 최종 질문.md",
-    "conflict-files-obsidian-git.md",
-    "template/2024-05-25.md",
-    "template/2024-04-25.md",
-    "task/2024-05-01.md",
-    "01-Project/프로젝트 회의록.md",
-    "01-Project/IT 프로젝트 직무 1기/5일차.md",
-    "01-Project/IT 프로젝트 직무 1기/3일차.md",
-    "01-Project/IT 프로젝트 직무 1기/2일차.md",
-    "01-Project/IT 프로젝트 직무 1기",
-    "01-Project/취업 준비/면접질문 정리/공통 질문 정리.md",
-    "01-Project/TorisBlog/프로젝트 개인 블로그 챗봇 Open API.md",
+    "01-Project/개인 프로젝트/구상.md",
+    "무제 1.canvas",
+    "task/📅 일일 작업 허브.md",
+    "task/2024-03-27.md",
+    "task/2023-11-07.md",
+    "task/2024-07-09.md",
+    "task/2023-12-30.md",
+    "task/2024-03-21.md",
+    "task/2024-03-26.md",
+    "03-Resource/블록체인/💎 블록체인 기초 개념.md",
+    "03-Resource/블록체인/🔗 Next.js 블록체인 개발 가이드.md",
+    "03-Resource/블록체인/💰 DeFi 생태계 가이드.md",
+    "03-Resource/블록체인/🚀 Next.js NFT 개발 가이드.md",
+    "template/README.md",
+    "task/2024-03-18.md",
+    "🧠 디지털 두뇌.md",
+    "images/📸 이미지 허브.md",
+    "Excalidraw/🎨 시각화 허브.md",
+    "template/📝 템플릿 허브.md",
+    "04-Archive/📁 아카이브 보관소.md",
+    "03-Resource/📚 학습 자료실.md",
+    "02-Area/🌱 개인 성장 영역.md",
+    "01-Project/🚀 프로젝트 허브.md",
+    "무제.canvas",
+    "task/README.md",
+    "task/2023-11-19.md",
+    "images/README.md",
     "01-Project/취업 준비/면접질문 정리/공통 질문.md",
-    "01-Project/취업 준비/코테 내용.md",
-    "task/2024-05-22.md",
-    "02-Area/가치관 일기.md",
-    "02-Area/투자/나의 투자 원칙.md",
-    "task/2024-05-13.md",
-    "template/🔮 Blog.md",
-    "template/📖 Todo-List.md",
-    "task/2024-05-07.md"
+    "images/스크린샷 2023-12-23 025817.png",
+    "01-Project/IT 프로젝트 직무 1기"
   ]
 }
