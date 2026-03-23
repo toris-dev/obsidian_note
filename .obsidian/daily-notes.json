@@ -1,0 +1,5 @@
+{
+  "format": "YYYY-MM-DD",
+  "folder": "task",
+  "template": "template/📖 Todo-List.md"
+}

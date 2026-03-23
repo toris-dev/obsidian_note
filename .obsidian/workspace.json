@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "34cebc3e8ec1a98b",
+        "id": "e3b0b67de359c641",
         "type": "tabs",
         "children": [
           {
-            "id": "71e434cecff3cfa4",
+            "id": "ec44e00742673526",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Resource/블록체인/💎 블록체인 기초 개념.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "💎 블록체인 기초 개념"
+              "title": "새 탭"
             }
           }
         ]
@@ -170,6 +166,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
@@ -178,42 +175,60 @@
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false,
       "obsidian-projects:Open projects": false,
-      "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "71e434cecff3cfa4",
+  "active": "ec44e00742673526",
   "lastOpenFiles": [
-    "01-Project/개인 프로젝트/구상.md",
-    "무제 1.canvas",
-    "task/📅 일일 작업 허브.md",
-    "task/2024-03-27.md",
-    "task/2023-11-07.md",
-    "task/2024-07-09.md",
-    "task/2023-12-30.md",
-    "task/2024-03-21.md",
-    "task/2024-03-26.md",
-    "03-Resource/블록체인/💎 블록체인 기초 개념.md",
-    "03-Resource/블록체인/🔗 Next.js 블록체인 개발 가이드.md",
-    "03-Resource/블록체인/💰 DeFi 생태계 가이드.md",
-    "03-Resource/블록체인/🚀 Next.js NFT 개발 가이드.md",
-    "template/README.md",
-    "task/2024-03-18.md",
+    "COMMIT_MSG.txt",
     "🧠 디지털 두뇌.md",
-    "images/📸 이미지 허브.md",
-    "Excalidraw/🎨 시각화 허브.md",
-    "template/📝 템플릿 허브.md",
-    "04-Archive/📁 아카이브 보관소.md",
-    "03-Resource/📚 학습 자료실.md",
-    "02-Area/🌱 개인 성장 영역.md",
-    "01-Project/🚀 프로젝트 허브.md",
-    "무제.canvas",
-    "task/README.md",
-    "task/2023-11-19.md",
-    "images/README.md",
-    "01-Project/취업 준비/면접질문 정리/공통 질문.md",
-    "images/스크린샷 2023-12-23 025817.png",
-    "01-Project/IT 프로젝트 직무 1기"
+    "task/📅 일일 작업 허브.md",
+    "PARA.md",
+    "2026-03-23.md",
+    "task/2026-03-23.md",
+    "task",
+    "4-Archives/neovim/NeoVim 단축키!!!.md",
+    "4-Archives/Java/Java Wrapper Class 란.md",
+    "4-Archives/Java/Java Lambda 가 무엇일까.md",
+    "4-Archives/image/캡처.png",
+    "4-Archives/image/캡처 2.png",
+    "4-Archives/image/캡처 1.png",
+    "4-Archives/image/SDLC.PNG.png",
+    "4-Archives/image/Pasted image 20231026220121.png",
+    "4-Archives/image/Pasted image 20231024001256.png",
+    "4-Archives/image/Pasted image 20231023234609.png",
+    "4-Archives/image/Pasted image 20231023220222.png",
+    "4-Archives/image/images_younoah_post_cffd5058-66a1-4842-8baa-e01ec7f54d07_2021-08-05_10-57-24.png",
+    "4-Archives/image/fullcycle.PNG.png",
+    "4-Archives/📁 아카이브 보관소.md",
+    "4-Archives/neovim",
+    "4-Archives/Java",
+    "4-Archives/image",
+    "4-Archives",
+    "3-Resources/초서 독서법/오브젝트 맛보기.md",
+    "3-Resources/세컨드 브레인/PARA를 이용하여 제 2의 뇌 구축!!!.md",
+    "3-Resources/블록체인/🔗 Next.js 블록체인 개발 가이드.md",
+    "3-Resources/블록체인/💎 블록체인 기초 개념.md",
+    "3-Resources/블록체인/DeFi 서비스.md",
+    "3-Resources/react/React.Fragment 와 React.createElement 의 사용법.md",
+    "3-Resources/react/React-Testing-Library.md",
+    "3-Resources/react/React 테스트하기!!~~.md",
+    "3-Resources/react/React 에서 Three.js 사용해보기.md",
+    "3-Resources/react/React 기초 정리~!!.md",
+    "3-Resources/react/react Modal 만들기.md",
+    "3-Resources/Devops/DevOps 기본 개념.md",
+    "3-Resources/css/grid.md",
+    "3-Resources/Blog/무제 파일.md",
+    "3-Resources/📚 학습 자료실.md",
+    "3-Resources/초서 독서법",
+    "3-Resources/세컨드 브레인",
+    "3-Resources/블록체인",
+    "3-Resources/react",
+    "3-Resources/Devops",
+    "2-Areas/투자/재무설문지.md",
+    "무제 1.canvas",
+    "무제.canvas"
   ]
 }
